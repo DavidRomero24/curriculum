@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(12, 145, 240);
+}
+
+img{
+    width: 200px; /*Ancho de la imagen*/
+    height: 200px; /*Alto de la imagen*/
+}
+
+tr:hover{
+    background-color: blueviolet;
+}
