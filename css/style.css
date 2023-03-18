@@ -10,3 +10,32 @@ img{
 tr:hover{
     background-color: blueviolet;
 }
+
+input{
+    border-radius: 5px;
+    border: 2px solid orange;
+}
+
+.tipoinputs{
+    background-color: darkgreen;
+}
+
+#nombrepersona{
+    height: 20px;
+    background-color: burlywood;
+}
+
+#clave{
+    height: 20px;
+    background-color: darkgray;
+}
+
+#day{
+    height: 20px;
+    background-color: cadetblue;
+}
+
+#archivos{
+    height: 20px;
+    background-color: coral;
+}
