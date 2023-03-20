@@ -1,10 +1,10 @@
 body{
-    background-color: rgb(12, 145, 240);
+    background-color: rgb(132, 8, 209);
 }
 
 img{
-    width: 200px; /*Ancho de la imagen*/
-    height: 200px; /*Alto de la imagen*/
+    width: 400px; /*Ancho de la imagen*/
+    height: 400px; /*Alto de la imagen*/
 }
 
 tr:hover{
@@ -17,7 +17,7 @@ input{
 }
 
 .tipoinputs{
-    background-color: darkgreen;
+    background-color: chocolate;
 }
 
 #nombrepersona{
